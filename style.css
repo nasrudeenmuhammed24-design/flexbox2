@@ -1,0 +1,32 @@
+.left-links ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+.right-links ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+   
+}
+a{
+     border: 1px solid rgb(250, 222, 222);
+    text-decoration: none;
+    color: blue;
+    background-color: white;
+    padding: 8px;
+}
+.logo{
+    color: red;
+    background-color: white;
+    align-self: center;
+    font-weight: bolder;
+}
+.header{
+    background-color: coral;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-between;
+    padding: 4px 32px;
+}
